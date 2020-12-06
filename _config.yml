@@ -24,18 +24,18 @@ linkedin_username: lautvdmaas
 about_title: About Me
 about_profile_image: images/Portret.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Laurens. I do this and this.
+  Hi, I'm Laurens. I do bla and bla.
   
   I am most skilled in: <mark>Python</mark>, <mark>SQL</mark>, and <mark>Spark</mark>.
 
-#Projects Section
-#projects_title: Projects
+# Projects Section
+# projects_title: Projects
 
-#Experience Section
-#experience_title: Experience
+# Experience Section
+# experience_title: Experience
 
-#Education Section
-#educaton_title: Education
+# Education Section
+# educaton_title: Education
 
 # More Section
 more_title: Interests
