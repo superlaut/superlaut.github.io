@@ -14,7 +14,7 @@ github_username:  superlaut
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: laut020
+# instagram_username: laut020
 linkedin_username: lautvdmaas
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -22,20 +22,20 @@ linkedin_username: lautvdmaas
 
 # About Section
 about_title: About Me
-about_profile_image: images/Portret.jpg
+about_profile_image: images/Portret.JPG
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Laurens. I do this and this.
   
-  I am most skilled in: <mark>R</mark> and <mark>Python</mark>
+  I am most skilled in: <mark>Python</mark>, <mark>SQL</mark>, and <mark>Spark</mark>.
 
-# Projects Section
-# projects_title: Projects
+Projects Section
+projects_title: Projects
 
-# Experience Section
-# experience_title: Experience
+Experience Section
+experience_title: Experience
 
-# Education Section
-# educaton_title: Education
+Education Section
+educaton_title: Education
 
 # More Section
 more_title: Interests
