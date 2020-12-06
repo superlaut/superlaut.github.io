@@ -1,8 +1,20 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  name: Knowledge Distillation and Hint Layers in Convolutional Neural Networks
+  link: github.com/superlaut
+  github: sproogen/knowledge-distillation-hint-layers
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    TBD.
+
+- layout: top-middle
+  name: Topic Modelling and Sentiment Analysis on Climate Change Articles
+  link: github.com/superlaut
+  github: superlaut/topic-modelling-climate-change
+  description: | # this will include new lines to allow paragraphs
+    TBD.
+
+- layout: top-middle
+  name: Visualising ISIS terrorist attacks and news coverage
+  link: github.com/superlaut
+  github: superlaut/isis-visualisation
+  description: | # this will include new lines to allow paragraphs
+    TBD.
