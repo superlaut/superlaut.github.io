@@ -28,13 +28,13 @@ about_content: | # this will include new lines to allow paragraphs
   
   I am most skilled in: <mark>Python</mark>, <mark>SQL</mark>, and <mark>Spark</mark>.
 
-Projects Section
+#Projects Section
 projects_title: Projects
 
-Experience Section
+#Experience Section
 experience_title: Experience
 
-Education Section
+#Education Section
 educaton_title: Education
 
 # More Section
